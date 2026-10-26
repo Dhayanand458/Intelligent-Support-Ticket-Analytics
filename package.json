@@ -1,0 +1,8 @@
+{
+  "name": "telecomiq-root",
+  "private": true,
+  "author": "Dhayanand M B <mbdhayanand.bsc23@rvu.edu.in> (https://github.com/dhayanand458)",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
